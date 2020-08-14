@@ -1,0 +1,6 @@
+D:\Workspace\LibraryApi\DB_Project\bin\Debug\DB_Project.dacpac
+D:\Workspace\LibraryApi\DB_Project\bin\Debug\DB_Project.dll
+D:\Workspace\LibraryApi\DB_Project\bin\Debug\DB_Project.pdb
+D:\Workspace\LibraryApi\DB_Project\obj\Debug\DB_Project.dll
+D:\Workspace\LibraryApi\DB_Project\obj\Debug\DB_Project.pdb
+D:\Workspace\LibraryApi\DB_Project\obj\Debug\DB_Project.sqlprojAssemblyReference.cache
